@@ -6,7 +6,12 @@ Having surplus alone isn't enough to build muscle tho — it will just add fat. 
 ## Macro sources
 I typically get my protein from protein powder, boiled eggs, and boiled chicken breasts. My carbs mainly come from rice.
 
-# Split
+## Split
 Consider this diagram:  
 ![Push/pull muscle groups](images/push_pull_muscles_diagram.svg)  
-When you push, you usually use these muscles, and when you pull, you usually use those.
+When you pull, you usually use these muscles, and when you push, you usually use those. Having this in mind, here's my split:
+| MAIN FOCUS | Exercises |
+|------------|-----------|
+| PULL: biceps, back, forearms | Vertical row, Pull-down machine (varied attachments), Bicep 21s, [Standing dumbbell bicep curl](https://www.youtube.com/watch?v=6DeLZ6cbgWQ) |
+| PUSH: triceps, chest, shoulders | Chest press, Incline press, [Tricep pushdown (rope)](https://www.youtube.com/watch?v=vB5OHsJ3EME), Seated dip, Shoulder press, Lateral raise |
+| LEGS | Leg extension, Incline/decline leg press, [Goblet squat](https://www.youtube.com/watch?v=gCESNsDsbqk), Prone leg curl, Hip abduction/adduction |
