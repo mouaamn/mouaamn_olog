@@ -18,3 +18,6 @@ When you pull, you usually use these muscles, and when you push, you usually use
 
 ## Sleeper build
 Something (e.g, vehicle, PC) that looks ordinary or unimpressive on the outside, but has much higher performance [than people expect.](https://www.instagram.com/reels/DZNt7WVpAbJ/)
+
+## Skin care
+I use 0.05g of tretinoin, moisturizer whenever my skin peels or feels dry, and sunscreen whenever I go out in the sun.
