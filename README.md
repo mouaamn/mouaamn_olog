@@ -5,3 +5,8 @@ Having surplus alone isn't enough to build muscle tho — it will just add fat. 
 
 ## Macro sources
 I typically get my protein from protein powder, boiled eggs, and boiled chicken breasts. My carbs mainly come from rice.
+
+# Split
+Consider this diagram:  
+![Push/pull muscle groups](images/push-pull-muscle-group.png)  
+When you push, you usually use these muscles, and when you pull, you usually use those.
