@@ -8,5 +8,5 @@ I typically get my protein from protein powder, boiled eggs, and boiled chicken 
 
 # Split
 Consider this diagram:  
-![Push/pull muscle groups](images/push-pull-muscle-group.png)  
+![Push/pull muscle groups](images/push_pull_muscles_diagram.svg)  
 When you push, you usually use these muscles, and when you pull, you usually use those.
