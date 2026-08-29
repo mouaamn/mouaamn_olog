@@ -12,7 +12,7 @@ Consider this diagram:
 When you pull, you usually use these muscles, and when you push, you usually use those. Having this in mind, here's my split:
 | MAIN FOCUS | Exercises |
 |------------|-----------|
-| PULL: biceps, back, forearms | Vertical row, Pull-down machine (varied attachments), Bicep 21s, Bicep curl |
+| PULL: biceps, back, forearms | Vertical row, Pull-down machine (varied attachments), Bicep 21s, [Standing dumbbell bicep curl](https://www.youtube.com/watch?v=6DeLZ6cbgWQ), [Face pull](https://www.youtube.com/watch?v=0Po47vvj9g4) |
 | PUSH: triceps, chest, shoulders | Chest press, Incline press, [Tricep pushdown (rope)](https://www.youtube.com/watch?v=vB5OHsJ3EME), Seated dip, Shoulder press, Lateral raise |
 | LEGS | Leg extension, Incline/decline leg press, [Goblet squat](https://www.youtube.com/watch?v=gCESNsDsbqk), Prone leg curl, Hip abduction/adduction, Calf raise |
 
