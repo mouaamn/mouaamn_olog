@@ -16,8 +16,5 @@ When you pull, you usually use these muscles, and when you push, you usually use
 | Push | Chest press, Incline press, [Tricep pushdown (rope)](https://www.youtube.com/watch?v=vB5OHsJ3EME), Seated dip, Shoulder press, Lateral raise |
 | Legs | Leg extension, Incline/decline leg press, [Goblet squat](https://www.youtube.com/watch?v=gCESNsDsbqk), Prone leg curl, Hip abduction/adduction, Calf raise |
 
-## Sleeper build
-Something (e.g, vehicle, PC) that looks ordinary or unimpressive on the outside, but has much higher performance [than people expect.](https://www.instagram.com/reels/DZNt7WVpAbJ/)
-
 ## Skin care
 I use 0.05g of tretinoin, moisturizer whenever my skin peels or feels dry, and sunscreen whenever I go out in the sun. I also shower once or twice a day with cold water and let my hair air-dry.
