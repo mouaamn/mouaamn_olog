@@ -4,7 +4,7 @@ Assuming you are [skinny,](https://archive.org/details/screenshot-2026-08-02-145
 Having surplus alone isn't enough to build muscle tho — it will just add fat. You also need protein, carbs, and consistent training.
 
 ## Macro sources
-I typically get my protein from protein powder, boiled eggs, and chicken breasts. My carbs mainly come from rice (preferably brown), and apples.
+I typically get my protein from protein powder, boiled eggs, chicken breasts, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), and apples.
 
 ## Split
 Consider this diagram:  
