@@ -1,5 +1,5 @@
 ## Bulking
-Assuming you are [skinny,](https://archive.org/details/screenshot-2026-08-02-145206) bulking is for you. Bulking is basically having a “surplus,” which means getting more calories than your maintenance. “Maintenance” is the amount of calories you need for your brain, muscles, and other parts of your body to function.
+[Bulking is basically](https://archive.org/details/screenshot-2026-08-02-145206) having a “surplus,” which means getting more calories than your maintenance. “Maintenance” is the amount of calories you need for your brain, muscles, and other parts of your body to function.
 
 But a surplus alone isn't enough to build muscle — it will just add fat. You also need protein, carbs, and consistent training.
 
