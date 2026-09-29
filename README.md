@@ -6,7 +6,7 @@ But a surplus alone isn't enough to build muscle — it will just add fat. You a
 During a bulk, you'll gain some fat along with muscle. Eventually, you'll want to “cut,” which is the opposite of having a surplus; that is, being in a calorie deficit.
 
 ## Macro sources
-I typically get my protein from protein powder, boiled eggs, chicken breasts, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), and apples.
+I typically get my protein from protein powder, boiled eggs, chicken breasts, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, and apples.
 
 ## Split
 Consider this diagram:  
