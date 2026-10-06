@@ -15,8 +15,8 @@ When you pull, you usually use these muscles, and when you push, you usually use
 | Focus | Exercises |
 |:------:|------------|
 | Pull | Vertical row, Pull-down machine (varied attachments), [Seated cable row](https://www.youtube.com/watch?v=UCXxvVItLoM), [Face pull](https://www.youtube.com/watch?v=0Po47vvj9g4), [Cable bicep curl](https://www.youtube.com/watch?v=2MUEL4nL6hA), [Bicep curl (dumbbell)](https://archive.org/details/document_5841665777559674614), [Cable wrist curl](https://archive.org/details/video5895212363199552969) |
-| Push | Chest press, Incline press, [Tricep pushdown (rope)](https://www.youtube.com/watch?v=vB5OHsJ3EME), Seated dip, Shoulder press, Lateral raise, Pec deck, Flat/incline bench press |
-| Legs | Leg extension, Incline/decline leg press, [Goblet squat](https://www.youtube.com/watch?v=gCESNsDsbqk), Prone leg curl, Hip abduction/adduction, Calf raise, Leg curl |
+| Push | Flat/incline bench press, Chest press, Incline press, Pec deck, [Tricep pushdown (rope)](https://www.youtube.com/watch?v=vB5OHsJ3EME), Seated dip, Shoulder press, Lateral raise |
+| Legs | Squat (barbell, hack, or goblet), Leg press, Leg extension, Prone leg curl, Hip abduction/adduction, Calf raise, Leg curl |
 
 Note that I don't necessarily do them all; I consider it a menu. For example, I might do prone leg curl and skip leg curl or vice versa. Similarly, I might do vertical row and skip seated cable row, and sometimes I might skip a number of exercises altogether.
 
