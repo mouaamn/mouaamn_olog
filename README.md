@@ -14,7 +14,7 @@ Consider this diagram:
 When you pull, you usually use these muscles, and when you push, you usually use those. Having this in mind, here's my split:
 | Focus | Exercises |
 |:------:|------------|
-| Pull | Vertical row, Pull-down machine (varied attachments), [Seated cable row](https://www.youtube.com/watch?v=UCXxvVItLoM), [Face pull](https://www.youtube.com/watch?v=0Po47vvj9g4), [Cable bicep curl](https://www.youtube.com/watch?v=2MUEL4nL6hA), [Bicep curl (dumbbell)](https://archive.org/details/document_5841665777559674614), [Cable wrist curl](https://archive.org/details/video5895212363199552969) |
+| Pull | Pull-down machine (varied attachments), Vertical row, [Seated cable row](https://www.youtube.com/watch?v=UCXxvVItLoM), [Face pull](https://www.youtube.com/watch?v=0Po47vvj9g4), [Cable bicep curl](https://www.youtube.com/watch?v=2MUEL4nL6hA), [Bicep curl (dumbbell)](https://archive.org/details/document_5841665777559674614), [Cable wrist curl](https://archive.org/details/video5895212363199552969) |
 | Push | Flat/incline bench press, Chest press, Incline press, Pec deck, [Tricep pushdown (rope)](https://www.youtube.com/watch?v=vB5OHsJ3EME), Seated dip, Shoulder press, Lateral raise |
 | Legs | Squat (barbell, hack, or goblet), Leg press, Leg extension, Prone leg curl, Leg curl, Hip abduction/adduction, Calf raise |
 
