@@ -1,12 +1,12 @@
 ## Bulking
 [Bulking is basically](https://archive.org/details/screenshot-2026-08-02-145206) having a “surplus,” which means getting more calories than your maintenance. “Maintenance” is the amount of calories you need to maintain a weight.
 
-But a surplus alone isn't enough to build muscle — it will just add fat. You also need protein, carbs, and consistent training.
+But a surplus alone isn't enough to build muscle — you also need protein, carbs, and consistent training.
 
 During a bulk, you'll gain some fat along with muscle. Eventually, you'll want to “cut,” which is the opposite of having a surplus; that is, being in a calorie deficit.
 
 ## Macro sources
-I typically get my protein from protein powder, boiled eggs, chicken breasts, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, and apples.
+I typically get my protein from protein powder, boiled eggs, chicken breasts, beef, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, bananas, and apples.
 
 ## Split
 Consider this diagram:  
