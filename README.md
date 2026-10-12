@@ -1,5 +1,5 @@
 ## Macro sources
-I typically get my protein from protein powder, boiled eggs, chicken breasts, beef, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, bananas, and apples.
+I usually get my protein from protein powder, boiled eggs, chicken breasts, beef, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, bananas, and apples.
 
 ## Split
 Consider this diagram:  
