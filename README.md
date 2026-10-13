@@ -11,7 +11,6 @@ I use 0.05g of tretinoin, moisturizer whenever my skin peels or feels dry, and s
 I usually get my protein from protein powder, boiled eggs, chicken breasts, beef, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, bananas, and apples.
 
 ## Split
-Consider this diagram:  
 ![Push/pull muscle groups](images/push_pull_muscles_diagram.svg)  
 When you pull, you usually use these muscles, and when you push, you usually use those. Having this in mind, here's my split:
 | Focus | Exercises |
