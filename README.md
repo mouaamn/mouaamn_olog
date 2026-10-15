@@ -5,7 +5,7 @@ I always put it on shuffle:
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLb2FPbuD6Xbo)
 
 ## Skin care
-I use 0.05g of tretinoin, moisturizer whenever my skin peels or feels dry, and sunscreen whenever I go out in the sun. I also shower once or twice a day with cold water and let my hair air-dry.
+I use 0.05g of tretinoin, a moisturizer, and sunscreen. I also shower once or twice a day with cold water.
 
 ## Macro sources
 I usually get my protein from protein powder, boiled eggs, chicken breasts, beef, and cans of tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, bananas, and apples.
