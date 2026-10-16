@@ -16,5 +16,5 @@ I usually get my protein from protein powder, boiled eggs, chicken breasts, beef
 | Upper A | Incline BP, Pull up, Pec deck, Seated cable row, Shoulder press, Lateral raise, Preacher curl, Tricep pushdown |
 | Lower A | Squat (barbell, hack, or goblet), Leg press, Prone leg curl, Hip adduction/abduction, Calf raise |
 |||
-| Upper B | Flat BP, Lat pulldown, Vertical row, Face pull, Lateral raise, Overhead extension, Hammer curl | 
+| Upper B | Flat BP, Lat pulldown, Vertical row, Face pull, Lateral raise, Tricep pushdown, Hammer curl | 
 | Lower B | RDL, Leg extension, Leg curl, Hip adduction/abduction, Calf raise |
