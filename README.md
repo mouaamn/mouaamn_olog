@@ -17,5 +17,3 @@ I usually get my protein from protein powder, boiled eggs, chicken breasts, beef
 ||
 | Lower | `Squat (barbell, hack, goblet, or Leg press)`, `RDL`, `Leg extension`, `Prone leg curl`, `Hip adduction/abduction`, `Calf raise` |
 ||
-
-`~` means optional.
