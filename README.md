@@ -13,7 +13,7 @@ I usually get my protein from protein powder, boiled eggs, chicken breasts, beef
 ## Split
 |         |                       |
 |:-------:|-----------------------|
-| Upper | `Flat BP`, `Lat pulldown (or ~Pull up)`, `~Incline press`, `Seated cable row (or Vertical row)`, `Shoulder press`, `Pec deck`, `Face pull`, `Lateral raise`, `Preacher curl`,  `Seated dip`, `Hammer curl`, `Tricep pushdown` |
+| Upper | `Flat BP`, `Lat pulldown (or ~Pull up)`, `~Incline press`, `Seated cable row (or Vertical row)`, `Shoulder press`, `Pec deck`, `Face pull`, `Lateral raise`, `Preacher curl`, `Hammer curl`, `Seated dip`, `Tricep pushdown` |
 ||
-| Lower | `Squat (barbell, hack, goblet, or Leg press)`, `RDL`, `Leg extension`, `Prone leg curl`, `Hip adduction/abduction`, `Calf raise` |
+| Lower | `Squat (barbell, hack, goblet, or Leg press)`, `DL`, `Leg extension`, `Prone leg curl`, `Hip adduction/abduction`, `Calf raise` |
 ||
