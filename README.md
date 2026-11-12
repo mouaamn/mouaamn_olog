@@ -8,7 +8,7 @@ I always put it on shuffle:
 I use 0.05g of tretinoin, a moisturizer, Vaseline, and sunscreen.
 
 ## Macro sources
-I usually get my protein from protein powder, boiled eggs, chicken breasts, beef, and canned tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, bananas, and apples.
+I get my protein from protein powder, boiled eggs, chicken breasts, beef, and canned tuna and sardines. My carbs mainly come from rice (preferably brown), noodles, bananas, and apples.
 
 ## Split
 |         |                       |
